@@ -1,0 +1,28 @@
+_repo: Lost-Sir-Massingberd-v.-2-2A-Romance-of-Real-Life_37171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Payn, James
+    birthdate: 1830
+    deathdate: 1898
+    gutenberg_agent_id: '4707'
+    url: http://www.gutenberg.org/2009/agents/4707
+    wikipedia: http://en.wikipedia.org/wiki/James_Payn
+description: ''
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: 'Lost Sir Massingberd: A Romance of Real Life. v. 2/2'
+url: http://www.gutenberg.org/ebooks/37171
