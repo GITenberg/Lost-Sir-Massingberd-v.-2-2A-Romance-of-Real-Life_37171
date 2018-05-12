@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4707
     wikipedia: http://en.wikipedia.org/wiki/James_Payn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37171#Lost-Sir-Massingberd-v.-2-2A-Romance-of-Real-Life
 gutenberg_issued: '2011-08-23'
 gutenberg_type: Text
 identifiers:
